@@ -1,0 +1,38 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+header{padding: 2em;}
+header,aside{
+  background-color: rgba(180, 220, 255, 0.5);
+}
+h1,h3 {font-family: 'PT Sans'}
+h1, tagline {color: #46a;}
+
+.nummer {
+  background-color: #46a;
+  color: #fff;
+}
+aside ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+s
+aside h3{
+  background-color: #46a;
+  padding:2em;
+  padding: #fff;
+}
+
+aside a {
+  text-decoration: none;
+  padding: 2em 0;
+  display: block;
+}
+
+footer {
+  background-color: #333
+  color: #eee;
+}
